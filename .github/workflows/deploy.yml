@@ -18,4 +18,4 @@ jobs:
         username: ${{ secrets.FTP_USERNAME }}
         password: ${{ secrets.FTP_PASSWORD }}
         # Đường dẫn trên host muốn lưu code (thường là public_html)
-        server-dir: /public_html/
+        server-dir: /nguyen2k4.page.gd/htdocs/
