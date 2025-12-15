@@ -13,6 +13,7 @@
         <p >Nơi lưu giữ tri thức nhân loại</p>
     </div>
     <a href="hi.php">Trang hi</a>
+    <a href="sua.php">Thi cuối kì</a>
     <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-4">
         <?php
         if(isset($pdo)) {
